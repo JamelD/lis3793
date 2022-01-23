@@ -31,6 +31,3 @@
 
 6. [Assignment 6 README.md](assignment6/README.md "My Assignment 6 README.md file")
     - Write a 800-1000 word essay describing what you learned from this course and the IA process. 
-
-7. [Activity Assignments README.md](activity/README.md "My Activity Assignments README.md file")
-    - TBA
